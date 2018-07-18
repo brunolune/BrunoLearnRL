@@ -1,10 +1,8 @@
 # LearnRL
 DataScientest Bootcamp - RL project 
 
-This is a copy of UC Berkely famous AI Pacman programs !!
+This project was about learning Reinforcement methods during the Data Science bootcamp Datascientest.com (april-june 2018). We used the UC Berkely famous AI Pacman programs for this purpose!
 
-I have completed the first assignment concerning valueIterationAgents.py that examplifies Dynamic programming for a simple example. 
-
-I think it will be a good set of programs to start learning about Reinforcement Learning.
+Results are at https://github.com/brunolune/brunolune.github.io
 
 Bruno
