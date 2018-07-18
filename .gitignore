@@ -1,0 +1,10 @@
+*.pyc
+.png
+.txt
+classes*
+pacman_QValue
+qvalueCounter
+recorded-game*
+recorded-games/
+pacman_Qvalue
+frames/
